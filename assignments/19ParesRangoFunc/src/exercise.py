@@ -14,6 +14,7 @@ def pares(v1, v2):
                     #cadena = cadena + str(i) + '\n'
                 #else:
                     #cadena = cadena + str(i)
+
                 
 def main():
     val1 = int(input('Valor 1: '))
