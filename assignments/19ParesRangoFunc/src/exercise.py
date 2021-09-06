@@ -1,6 +1,5 @@
 def pares(v1, v2):
     #cadena = ''
-    
     if v1 == v2:
         print('No hay pares')
 
